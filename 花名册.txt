@@ -342,4 +342,4 @@ rimiHS          程序员
 rimiXK		程序员
 tony            学生
 RossLing        hello,everyone!
-bird            哇！这么神奇
+bird            哇！好神奇
